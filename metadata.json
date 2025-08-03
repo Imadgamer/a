@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Copy of VidyaBot for Vidya Mandir",
+  "description": "A conversational AI chatbot named VidyaBot, designed to answer questions about Vidya Mandir. It remembers conversation context and sources its information from the official website.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
