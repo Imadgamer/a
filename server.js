@@ -18,7 +18,7 @@ const port = process.env.PORT || 3000;
 // --- Middleware ---
 app.use(cors({
   origin: process.env.NODE_ENV === 'production' 
-    ? ['https://your-app-name.onrender.com'] // Replace with your actual Render URL
+    ? ['https://vidyabot-bkv0.onrender.com'] // Replace with your actual Render URL
     : ['http://localhost:3000', 'http://localhost:5173'],
   credentials: true
 }));
